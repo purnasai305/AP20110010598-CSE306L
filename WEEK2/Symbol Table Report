@@ -16,7 +16,7 @@ STATEMENT:
         • And other ways.
  
  PROCEDURE:
-            I written the code in c programming language,first i take a character input and i am creating two array to store the values 
+            I written the code in c programming language,first i take a character input(EXPRESSION) and i am creating two array to store the values 
             and the adress of that values in the pointer array and if the input is alphabet it prints identifier for this i am using is 
             isalpha() function and if it is not i am comparing with some operators using if block if it is a special character it will 
             print operator.
